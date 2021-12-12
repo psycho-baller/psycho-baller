@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## My stats
 
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact" width="33%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=psychoballer" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=blue-green" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="33%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=psychoballer&theme=blue-green&hide_border=true" width="33%" />
 </p>
 
 <!--START_SECTION:waka-->
