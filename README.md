@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true)
+
+
+![hello visitor number](https://visitor-badge.glitch.me/badge?page_id=${psycho-baller}.${437428931})
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" />
+
+
