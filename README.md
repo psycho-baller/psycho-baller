@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![hello visitor number](https://visitor-badge.glitch.me/badge?page_id=${psycho-baller}.${437428931})
+![num of visitors](https://visitor-badge.glitch.me/badge?page_id=psycho-baller.visitor-badge&left_text=Hello%20visitor%20number)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" />
 
