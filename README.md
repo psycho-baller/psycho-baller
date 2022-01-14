@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     17 mins         █████████▒░░░░░░░░░░░░░░░   36.72 % 
+Java       12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.28 % 
+Markdown   11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Other      4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Text       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 ```
 <!--END_SECTION:waka-->
 
