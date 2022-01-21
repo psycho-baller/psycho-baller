@@ -27,11 +27,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java             58 mins         █████████████▒░░░░░░░░░░░   53.31 % 
-Python           17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-GitIgnore file   14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Markdown         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Java             1 hr 14 mins    █████████████████████░░░░   83.51 % 
+GitIgnore file   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 ```
 <!--END_SECTION:waka-->
 
