@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 12 hrs 25 mins
+Total: 4 hrs 12 mins
 
-Java   12 hrs 25 mins  █████████████████████████   100.00 % 
+Java   4 hrs 11 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
