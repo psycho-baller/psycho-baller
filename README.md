@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       7 hrs 9 mins    ████████████████████▓░░░░   82.75 % 
-HTML         1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-CSV          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other   4 mins          ███████████████▓░░░░░░░░░   62.69 %
 ```
+
 <!--END_SECTION:waka-->
 
