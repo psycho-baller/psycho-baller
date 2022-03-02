@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Other   4 mins          █████████████████████████   100.00 %
+Java    1 hr 43 mins    ████████████████████████░   95.91 %
+Other   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
