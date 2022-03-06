@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java     20 hrs 3 mins   █████████████████████████   99.79 %
-Python   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java             20 hrs 3 mins   █████████████████████████   99.73 %
+Python           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
