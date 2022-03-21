@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             3 hrs 56 mins   ██████████████████████░░░   88.13 %
-Python           16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-GitIgnore file   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-CLASS            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-IDEA_MODULE      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Java             5 hrs 47 mins   ████████████████████████░   95.78 %
+GitIgnore file   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+CLASS            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+IDEA_MODULE      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
