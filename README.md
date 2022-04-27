@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 51 mins  ████████████▒░░░░░░░░░░░░   49.10 %
-Python       5 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
-SCSS         4 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-CSS          1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript   9 hrs 56 mins   ████████████░░░░░░░░░░░░░   48.50 %
+SCSS         4 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+Python       4 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+CSS          48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
