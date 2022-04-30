@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="49.5%" /> 
 </p>
 
+### Stats for last 7 days
 <!--START_SECTION:waka-->
 
 ```text
