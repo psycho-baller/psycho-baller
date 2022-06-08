@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             8 hrs 53 mins   █████████████░░░░░░░░░░░░   52.26 %
-TypeScript       3 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-Python           2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-SCSS             1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-CSS              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java             8 hrs 53 mins   ████████████████████░░░░░   79.77 %
+Python           2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
