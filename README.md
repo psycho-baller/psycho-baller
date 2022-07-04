@@ -1,23 +1,18 @@
-
-<!--
-### Hi there 👋
-**psycho-baller/psycho-baller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
--->
 [![num of visitors](https://visitor-badge.glitch.me/badge?page_id=psycho-baller.visitor-badge&left_text=Hello%20visitor%20number)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![total time spent since 2022](https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb.svg)](https://wakatime.com/@psychoballer)
+### Hi there 👋
+
+- 🔭 I’m currently working on my portfolio and visualizing algorithms I learned in my Data Stuctures & Algorithm
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with centering a div with CSS
+- 💬 Ask me about runtime
+- 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy reading books so feel free to recommend me one
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
+-->
 
 ## My stats
 <p float="left" align="center">
@@ -27,7 +22,6 @@ Here are some ideas to get you started:
 
 ### Stats for last 7 days
 <!--START_SECTION:waka-->
-
 ```text
 TypeScript   52 mins         ██████████████▒░░░░░░░░░░   57.24 %
 Markdown     23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
