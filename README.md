@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with centering a div with CSS
-- 💬 Ask me about runtime
+- 💬 Ask me about runtime of different algorithms
 - 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy reading books so feel free to recommend me one
