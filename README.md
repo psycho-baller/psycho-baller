@@ -1,12 +1,12 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my portfolio and visualizing algorithms I learned in my Data Stuctures & Algorithm
+- 🔭 I’m currently working on my personal website where I wanna share my blog posts and visualizing algorithms I learned in my Data Stuctures & Algorithm
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with centering a div with CSS
 - 💬 Ask me about runtime of different algorithms
 - 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy reading books so feel free to recommend me one
+- ⚡ Fun fact: I enjoy reading books so feel free to recommend me one (currently looking for a fantasy novel)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
