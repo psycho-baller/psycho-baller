@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my personal website where I wanna share my blog posts and visualizing algorithms I learned in my Data Stuctures & Algorithm
+- 🔭 I’m currently working on my personal website where I wanna share my blog posts
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with centering a div with CSS
