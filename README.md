@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my personal website where I wanna share my blog posts
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ)
+- 🌱 I’m currently learning Web Development, Data Science & ML
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with centering a div with CSS
 - 💬 Ask me about runtime of different algorithms
@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
 
-## My stats
+## My stats since Dec 11, 2021
 [![num of visitors](https://visitor-badge.glitch.me/badge?page_id=psycho-baller.visitor-badge&left_text=Hello%20visitor%20number&style=flat-square)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![total time spent since 2022](https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb.svg?style=flat-square)](https://wakatime.com/@psychoballer)
 <p float="left" align="center">
