@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ)
-- 🌱 I’m currently learning Web Development, Data Science & ML
-- 👯 I’m looking to collaborate on anything
+- 🔭 I’m currently working on the [Three.js Journey](https://threejs-journey.com/) course and my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ) 
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on impactful projects
 - 🤔 I’m looking for help with centering a div with CSS
 - 💬 Ask me about runtime of different algorithms
 - 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`
