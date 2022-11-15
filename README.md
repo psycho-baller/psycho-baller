@@ -6,7 +6,7 @@
 - 💬 Ask me about runtime of different algorithms
 - 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`. You can also message me through the [contact form](https://rami-maalouf.vercel.app/?goTo=contact) in my website
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy reading books so feel free to recommend me one (currently looking for a fantasy novel)
+- ⚡ Fun fact: I'm saving up to buy a new laptop since my current laptop has a dislocated hinge, extremely slow, ~3hrs battery life. Any help in my [goFundMe](https://gofund.me/46bba4ab) would help me buy a new laptop and would be greatly appreciated
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
