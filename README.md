@@ -23,12 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       22 hrs 24 mins  █████████████████▓░░░░░░░   71.06 %
-Assembly         5 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-Markdown         1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-CSS              39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-TypeScript       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-ca65 assembler   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JavaScript       20 hrs 19 mins  █████████████████░░░░░░░░   67.79 %
+Assembly         6 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+Markdown         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+CSS              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+ca65 assembler   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
