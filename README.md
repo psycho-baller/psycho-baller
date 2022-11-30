@@ -23,9 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Assembly         6 hrs 51 mins   ████████████████████████░   96.30 %
-ca65 assembler   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Other            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Assembly     1 hr 36 mins    ██████████▓░░░░░░░░░░░░░░   42.36 %
+JavaScript   1 hr 36 mins    ██████████▓░░░░░░░░░░░░░░   42.19 %
+Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
