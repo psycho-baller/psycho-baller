@@ -23,9 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Assembly     1 hr 36 mins    ██████████▓░░░░░░░░░░░░░░   42.36 %
-JavaScript   1 hr 36 mins    ██████████▓░░░░░░░░░░░░░░   42.19 %
-Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+JavaScript   1 hr 56 mins    ███████████▓░░░░░░░░░░░░░   46.98 %
+Assembly     1 hr 36 mins    █████████▓░░░░░░░░░░░░░░░   38.85 %
+Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
