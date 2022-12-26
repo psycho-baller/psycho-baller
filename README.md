@@ -10,7 +10,7 @@
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317ip6uskv3ex44es6nsiywa66zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=317ip6uskv3ex44es6nsiywa66zm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317ip6uskv3ex44es6nsiywa66zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm)
 ## My stats since Dec 11, 2021
 [![num of visitors](https://visitor-badge.glitch.me/badge?page_id=psycho-baller.visitor-badge&left_text=Hello%20visitor%20number&style=flat-square)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![total time spent since 2022](https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb.svg?style=flat-square)](https://wakatime.com/@psychoballer)
