@@ -21,15 +21,5 @@
 
 ### Stats for last 7 days
 <!--START_SECTION:waka-->
-
-```text
-Ruby          9 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.82 %
-Slim          4 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
-TypeScript    3 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-Markdown      2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-YAML          1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-ERB           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-```
-
 <!--END_SECTION:waka-->
 
