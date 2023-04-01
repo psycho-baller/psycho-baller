@@ -21,5 +21,15 @@
 
 ### Stats for last 7 days
 <!--START_SECTION:waka-->
+
+```text
+Dart         11 hrs 56 mins  █████████░░░░░░░░░░░░░░░░   35.60 %
+Astro        3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+JavaScript   3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Docker       2 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+TypeScript   2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Ruby         1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+```
+
 <!--END_SECTION:waka-->
 
