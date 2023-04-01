@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Music Journal](https://github.com/psycho-baller/spotifyconnected), my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ), and learning Flutter (to build the next best mobile app really soon)
+- 🔭 I’m currently working on [my new portfolio website](https://github.com/psycho-baller/portfolio) built with astro, my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ), and learning Flutter (to build the next best mobile app really soon)
 - 🌱 I’m currently Working as a Software Developer Intern for IBM. Specifically for a team called [IBM Skills Network](https://skills.network/)
 - 👯 I’m looking to collaborate on impactful projects
 - 🤔 I’m looking for help with centering a div with CSS
