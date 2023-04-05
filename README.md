@@ -1,12 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [my new portfolio website](https://github.com/psycho-baller/portfolio) built with astro, my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ), and learning Flutter (to build the next best mobile app really soon)
-- 🌱 I’m currently Working as a Software Developer Intern for IBM. Specifically for a team called [IBM Skills Network](https://skills.network/)
+- 🌱 I’m currently Working as a Software Developer Intern @IBM. Specifically for a team called [IBM Skills Network](https://skills.network/)
 - 👯 I’m looking to collaborate on impactful projects
-- 🤔 I’m looking for help with centering a div with CSS
-- 💬 Ask me about runtime of different algorithms
 - 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`. You can also message me through the [contact form](https://rami-maalouf.vercel.app/?goTo=contact) in my website
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I̶'̶m̶ ̶s̶a̶v̶i̶n̶g̶ ̶u̶p̶ ̶t̶o̶ ̶b̶u̶y̶ ̶a̶ ̶n̶e̶w̶ ̶l̶a̶p̶t̶o̶p̶ ̶s̶i̶n̶c̶e̶ ̶m̶y̶ ̶c̶u̶r̶r̶e̶n̶t̶ ̶l̶a̶p̶t̶o̶p̶ ̶h̶a̶s̶ ̶a̶ ̶d̶i̶s̶l̶o̶c̶a̶t̶e̶d̶ ̶h̶i̶n̶g̶e̶,̶ ̶e̶x̶t̶r̶e̶m̶e̶l̶y̶ ̶s̶l̶o̶w̶,̶ ̶~̶3̶h̶r̶s̶ ̶b̶a̶t̶t̶e̶r̶y̶ ̶l̶i̶f̶e̶.̶ ̶A̶n̶y̶ ̶h̶e̶l̶p̶ ̶i̶n̶ ̶m̶y̶ [g̶o̶F̶u̶n̶d̶M̶e̶](https://gofund.me/46bba4ab) w̶o̶u̶l̶d̶ ̶h̶e̶l̶p̶ ̶m̶e̶ ̶b̶u̶y̶ ̶a̶ ̶n̶e̶w̶ ̶l̶a̶p̶t̶o̶p̶ ̶a̶n̶d̶ ̶w̶o̶u̶l̶d̶ ̶b̶e̶ ̶g̶r̶e̶a̶t̶l̶y̶ ̶a̶p̶p̶r̶e̶c̶i̶a̶t̶e̶d̶. Update, I got a new laptop!
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
