@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on [my new portfolio website](https://github.com/psycho-baller/portfolio) built with astro, my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ), and learning Flutter (to build the next best mobile app really soon)
 - 🌱 I’m currently Working as a Software Developer Intern @IBM. Specifically for a team called [IBM Skills Network](https://skills.network/)
 - 👯 I’m looking to collaborate on impactful projects
-- 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`. You can also message me through the [contact form](https://rami-maalouf.vercel.app/?goTo=contact) in my website
+- 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`. You can also message me through the [contact form](https://rami-maalouf.vercel.app/?goTo=contact) of my old website
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
