@@ -1,3 +1,5 @@
+<div><img src="github-header.gif" width="100%" border-radius="8px" style="border-radius: 8px;" /></div>
+
 ### Hi there 👋
 - 🔭 I’m currently working on [my new portfolio website](https://github.com/psycho-baller/portfolio) built with astro, my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ), and learning Flutter (to build the next best mobile app really soon)
 - 🌱 I’m currently Working as a Software Developer Intern @IBM. Specifically for a team called [IBM Skills Network](https://skills.network/)
@@ -7,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317ip6uskv3ex44es6nsiywa66zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm)
-## My stats since 2022
+### My stats since 2022
 [![num of visitors](https://visitor-badge.glitch.me/badge?page_id=psycho-baller.visitor-badge&left_text=Hello%20visitor%20number&style=flat-square)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![total time spent since 2022](https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb.svg?style=flat-square)](https://wakatime.com/@psychoballer)
 <div float="left" align="center">
