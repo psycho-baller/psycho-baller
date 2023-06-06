@@ -1,7 +1,7 @@
 <div><img src="github-header.gif" width="100%" border-radius="8px" style="border-radius: 8px;" /></div>
 
-### Hi there 👋
-- 🔭 I’m currently working on [my new portfolio website](https://github.com/psycho-baller/portfolio) built with astro, my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ), and learning Flutter (to build the next best mobile app really soon)
+### Hello! 👋
+- 🔭 I’m currently mainly working on [SnipTube](https://github.com/psycho-baller/snipTube) a browser extension for Youtube, my [youtube channel](https://www.youtube.com/channel/UCf9CoIzXxFcwlwaNuN5_1BQ)
 - 🌱 I’m currently Working as a Software Developer Intern @IBM. Specifically for a team called [IBM Skills Network](https://skills.network/)
 - 👯 I’m looking to collaborate on impactful projects
 - 📫 How to reach me: Aside from the links in my profile, you can connect with me through discord: `Rami#2782`. You can also message me through the [contact form](https://rami-maalouf.vercel.app/?goTo=contact) of my old website
