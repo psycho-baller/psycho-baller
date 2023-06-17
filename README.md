@@ -10,6 +10,32 @@
 
 💡 I believe in the power of collaboration and am always on the lookout for exciting projects that make a difference. If you're spearheading an impactful project that seeks to make a difference, I'm eager to explore opportunities to contribute my expertise and collaborate effectively
 
+### Languages and Technologies I use
+
+<div align="center">
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+  <img width="50" src="astro.svg" alt="astro" title"Astro" />
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails"/>
+<!-- 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png" alt="Elixir" title="Elixir"/> -->
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+</div>
+
+### Find Me On
 <!--   <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 <div align="center" >
   <a href="https://www.linkedin.com/in/rami--maalouf" target="_blank" rel="noopener noreferrer">
@@ -28,7 +54,7 @@
     <img src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white' border='0' alt='Paypal' />
   </a>
 </div>
-<div align="center"
+<div align="center">
   <a href='https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm' target='_blank' rel="noopener noreferrer">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=317ip6uskv3ex44es6nsiywa66zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm" alt="spotify" />
   </a>
@@ -37,7 +63,6 @@
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
-
 
 ---
 
