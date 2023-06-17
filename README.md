@@ -1,6 +1,6 @@
-<a href="https://ramimaalouf.tech" target="_blank"><img src="github-header.gif" width="100%" border-radius="8px" style="border-radius: 8px;" /></div>
+<a href="https://ramimaalouf.tech" target="_blank" rel="noopener noreferrer"><img src="github-header.gif" width="100%" border-radius="8px" style="border-radius: 8px;" /></div>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 🌟 Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of app/web development and transformative fields like AI, [LLMs](https://en.wikipedia.org/wiki/Large_language_model), [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), and UX.
 
@@ -12,16 +12,16 @@
 
 <!--   <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 <div align="center" >
-  <a href="https://www.linkedin.com/in/rami--maalouf" target="_blank">
+  <a href="https://www.linkedin.com/in/rami--maalouf" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href='https://www.instagram.com/psycho.baller/' target='_blank' rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: psycho.baller">
   </a>
-  <a href='https://medium.com/@ramimaalouf' target='_blank'>
+  <a href='https://medium.com/@ramimaalouf' target='_blank' rel="noopener noreferrer">
     <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' border='0' alt='Medium' />
   </a>
-  <a href='https://ko-fi.com/ramimaalouf' target='_blank'>
+  <a href='https://ko-fi.com/ramimaalouf' target='_blank' rel="noopener noreferrer">
     <img src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white' border='0' alt='Buy Me a Ko-Fi' />
   </a>
   <a href='https://www.paypal.com/donate/?business=YAEZW89AZDL6C&no_recurring=1&item_name=Your+support+helps+me+improve+and+grow+my+YouTube+channel+and+the+software+projects+I+develop.&currency_code=CAD' target='_blank'>
