@@ -10,7 +10,7 @@
 
 💡 I believe in the power of collaboration and am always on the lookout for exciting projects that make a difference. If you're spearheading an impactful project that seeks to make a difference, I'm eager to explore opportunities to contribute my expertise and collaborate effectively
 
-### Languages and Technologies I use
+## ⚡ Languages and Technologies I use
 
 <div align="center">
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
@@ -37,7 +37,9 @@
   <img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
 </div>
 
-### Find Me On
+<br />
+
+## 📪 Find Me On
 <!--   <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 <div align="center" >
   <a href="https://www.linkedin.com/in/rami--maalouf" target="_blank" rel="noopener noreferrer">
@@ -66,9 +68,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
 
----
+<br />
 
-## Stats 📊
+## 📊 Stats
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=psycho-baller&style=flat-square&color=blue" alt="profile visits">
