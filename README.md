@@ -24,12 +24,12 @@
   <a href='https://ko-fi.com/ramimaalouf' target='_blank' rel="noopener noreferrer">
     <img src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white' border='0' alt='Buy Me a Ko-Fi' />
   </a>
-  <a href='https://www.paypal.com/donate/?business=YAEZW89AZDL6C&no_recurring=1&item_name=Your+support+helps+me+improve+and+grow+my+YouTube+channel+and+the+software+projects+I+develop.&currency_code=CAD' target='_blank'>
+  <a href='https://www.paypal.com/donate/?business=YAEZW89AZDL6C&no_recurring=1&item_name=Your+support+helps+me+improve+and+grow+my+YouTube+channel+and+the+software+projects+I+develop.&currency_code=CAD' target='_blank' rel="noopener noreferrer">
     <img src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white' border='0' alt='Paypal' />
   </a>
 </div>
 <div align="center"
-  <a href='https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm'>
+  <a href='https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm' target='_blank' rel="noopener noreferrer">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=317ip6uskv3ex44es6nsiywa66zm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm" alt="spotify" />
   </a>
 </div>
@@ -44,9 +44,11 @@
 ## Stats 📊
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=psycho-baller&style=flat-square&color=blue" alt="">
-  <img src="https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb.svg?style=flat-square" alt="">
-  <a href="https://www.youtube.com/@ramimaalouf" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/views/UCf9CoIzXxFcwlwaNuN5_1BQ"></a>
+  <img src="https://komarev.com/ghpvc/?username=psycho-baller&style=flat-square&color=blue" alt="profile visits">
+  <img src="https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb.svg?style=flat-square" alt="time spent in IDE">
+  <a href="https://www.youtube.com/@ramimaalouf" target="_blank" rel="noopener noreferrer">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/views/UCf9CoIzXxFcwlwaNuN5_1BQ">
+  </a>
 </div>
 
 <div float="left" align="center">
