@@ -88,6 +88,7 @@
 ### This past week I've worked with
 
 <!--START_SECTION:waka-->
+
 ```txt
 TypeScript   28 hrs 24 mins  ██████████████████████▓░░   90.03 %
 Markdown     1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
@@ -95,4 +96,5 @@ SCSS         51 mins         ▓░░░░░░░░░░░░░░░░
 Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 Python       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
+
 <!--END_SECTION:waka-->
