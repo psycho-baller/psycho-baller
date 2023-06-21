@@ -4,7 +4,7 @@
 
 🌟 Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of app/web development and transformative fields like AI, [LLMs](https://en.wikipedia.org/wiki/Large_language_model), [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), and UX.
 
-🔭 Currently, I am primarily focused on developing SnipTube, a browser extension for YouTube, alongside managing [my YouTube channel](https://www.youtube.com/@ramimaalouf) where I offer tutorials and knowledge I learned through my unique experiences
+🔭 Currently, I am primarily focused on developing SnipTube, a browser extension for YouTube, alongside managing [my YouTube channel](https://www.youtube.com/@ramimaalouf) where I offer tutorials and knowledge I gained through my unique experiences
 
 🚀 I’m currently working as a Software Developer Intern at 👁️🐝Ⓜ️, specifically with [IBM Skills Network](https://github.com/ibm-skills-network)
 
