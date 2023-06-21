@@ -8,7 +8,7 @@
 
 🚀 I’m currently working as a Software Developer Intern at 👁️🐝Ⓜ️, specifically with [IBM Skills Network](https://github.com/ibm-skills-network)
 
-💡 I believe in the power of collaboration and am always on the lookout for exciting projects that make a difference. If you're spearheading an impactful project that seeks to make a difference, I'm eager to explore opportunities to contribute my expertise and collaborate effectively
+💡 I believe in the power of collaboration and am always on the lookout for exciting projects that make a difference. If you're spearheading an impactful project that seeks to make a difference, I'm eager to explore opportunities to contribute my expertise. You can find/connect with me in the platform of your choice through the buttons below or the links in my profile
 
 ## ⚡ Languages and Technologies I use
 
