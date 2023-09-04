@@ -1,4 +1,4 @@
-<a href="https://ramimaalouf.tech" target="_blank" rel="noopener noreferrer"><img src="github-header.gif" width="100%" border-radius="8px" style="border-radius: 8px;" /></div>
+<a href="https://ramimaalouf.tech" target="_blank" rel="noopener noreferrer"><img src="github-header.gif" width="100%" style="border-radius: 8px;" /></a>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
