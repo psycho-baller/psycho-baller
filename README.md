@@ -22,7 +22,7 @@
   <img width="40" src="astro.svg" alt="Astro" title="Astro" />
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="Flask" title="FastAPI"/>
-  <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="LangChain" title="LangChain" />
+  <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="Langchain" title="Langchain" />
 <!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/> -->
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails"/>
