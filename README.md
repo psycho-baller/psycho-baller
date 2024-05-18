@@ -17,7 +17,7 @@
   <img width="40" src="next-js.svg" alt="NextJS" title="NextJS" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original-wordmark.svg" alt="tRPC" title="tRPC"/>
   <img width="40" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="NestJS" title="NestJS" />
-<!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/> -->
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 <!--   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" title="Three.js"/> -->
   <img width="40" src="svelte.svg" alt="Svelte" title="Svelte" />
@@ -25,7 +25,7 @@
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" alt="Solid.js" title="Solid.js"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="Flask" title="FastAPI"/>
-  <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="Langchain" title="Langchain" />
+<!--   <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="Langchain" title="Langchain" /> -->
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" title="Go"/>
 <!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/> -->
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/>
