@@ -27,4 +27,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           IGNORED_REPOS: "uCalgaryNotes, Obsidian"
           SHOW_SHORT_INFO: "True"
-          
+          SHOW_COMMIT: "False"
