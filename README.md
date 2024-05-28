@@ -89,12 +89,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=blue-green" width="59%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="40%" /> 
 </div-->
-<div float="left" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycho-baller&theme=tokyonight&hide_border=false" width="56%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" width="40%" /> 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycho-baller&theme=tokyonight&hide_border=false" width="50%" />
 </div>
-
-### This past week I've worked with
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
