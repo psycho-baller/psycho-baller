@@ -28,3 +28,4 @@ jobs:
           IGNORED_REPOS: "uCalgaryNotes, Obsidian"
           SHOW_SHORT_INFO: "True"
           SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
