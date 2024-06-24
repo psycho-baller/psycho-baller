@@ -1,4 +1,4 @@
-<a href="https://ramimaalouf.tech" target="_blank" rel="noopener noreferrer"><img src="github-header.gif" width="100%" style="border-radius: 8px;" /></a>
+<a href="https://ramimaalouf.tech" target="_blank" rel="noopener noreferrer"><img src="assets/next-js.svggithub-header.gif" width="100%" style="border-radius: 8px;" /></a>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -14,14 +14,14 @@
 
 <div align="center">
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-  <img width="40" src="next-js.svg" alt="NextJS" title="NextJS" />
+  <img width="40" src="assets/next-js.svg" alt="NextJS" title="NextJS" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original-wordmark.svg" alt="tRPC" title="tRPC"/>
   <img width="40" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="NestJS" title="NestJS" />
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 <!--   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" title="Three.js"/> -->
-  <img width="40" src="svelte.svg" alt="Svelte" title="Svelte" />
-  <img width="40" src="astro.svg" alt="Astro" title="Astro" />
+  <img width="40" src="assets/svelte.svg" alt="Svelte" title="Svelte" />
+  <img width="40" src="assets/astro.svg" alt="Astro" title="Astro" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" alt="Solid.js" title="Solid.js"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="Flask" title="FastAPI"/>
