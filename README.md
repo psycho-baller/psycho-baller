@@ -68,7 +68,7 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=317ip6uskv3ex44es6nsiywa66zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm" alt="spotify" />
   </a>
 </div>
-<!--  <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
+<!--  <a href="https://medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho-baller&repo=psycho-baller)](https://github.com/psycho-baller/psycho-baller)
 -->
@@ -85,10 +85,12 @@
   </a>
 </div>
 
-<!--div float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=blue-green" width="59%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="40%" /> 
-</div-->
+<div float="left" align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=blue-green" width="59%" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="40%" />  -->
+  <img src="assets/generated/overview.svg" width="40%" /> 
+  <img src="assets/generated/languages.svg" width="40%" />
+</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycho-baller&theme=tokyonight&hide_border=false" width="55%" />
 </div>
