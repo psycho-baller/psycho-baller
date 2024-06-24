@@ -67,7 +67,7 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         EXCLUDED: "psycho-baller/uCalgaryNotes, psycho-baller/Obsidian"
-        EXCLUDED_LANGS: "Jupyter Notebook"
+        EXCLUDED_LANGS: "Jupyter Notebook, HTML"
         EXCLUDE_FORKED_REPOS: true
 
     # Commit all changed files to the repository
