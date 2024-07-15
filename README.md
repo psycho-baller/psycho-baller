@@ -96,13 +96,11 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
- > 
-> 🏆 833 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -114,9 +112,8 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 40 mins       █████████████████████████   99.10 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               5 hrs 8 mins        █████████████████████████   99.60 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -133,5 +130,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2024 02:08:40 UTC
+ Last Updated on 15/07/2024 12:39:59 UTC
 <!--END_SECTION:waka-->
