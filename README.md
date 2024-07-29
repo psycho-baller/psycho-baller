@@ -96,11 +96,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 860 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -132,5 +134,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2024 13:16:38 UTC
+ Last Updated on 29/07/2024 01:28:19 UTC
 <!--END_SECTION:waka-->
