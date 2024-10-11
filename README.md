@@ -96,13 +96,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.9 MB Used in GitHub's Storage 
+> 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 972 Contributions in the Year 2024
+> 🏆 973 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -124,15 +124,15 @@ Markdown                 1 hr 33 mins        █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+Python                   20 repos            ███████░░░░░░░░░░░░░░░░░░   28.17 % 
 TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   26.76 % 
 Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
 
 
- Last Updated on 10/10/2024 12:44:11 UTC
+ Last Updated on 11/10/2024 01:43:53 UTC
 <!--END_SECTION:waka-->
