@@ -102,8 +102,6 @@
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,032 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 74 Public Repositories 
@@ -134,5 +132,5 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2024 15:14:22 UTC
+ Last Updated on 16/10/2024 15:17:20 UTC
 <!--END_SECTION:waka-->
