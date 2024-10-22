@@ -96,19 +96,19 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,059 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
 > 📜 76 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -124,15 +124,15 @@ JavaScript               1 hr 36 mins        █░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-Python                   19 repos            ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Python                   19 repos            ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Haskell                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 21/10/2024 12:48:43 UTC
+ Last Updated on 22/10/2024 01:46:08 UTC
 <!--END_SECTION:waka-->
