@@ -96,7 +96,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -134,5 +134,5 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2024 02:35:30 UTC
+ Last Updated on 23/11/2024 02:36:55 UTC
 <!--END_SECTION:waka-->
