@@ -24,22 +24,22 @@
   <img width="40" src="assets/astro.svg" alt="Astro" title="Astro" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" alt="Solid.js" title="Solid.js"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="Flask" title="FastAPI"/>
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>
 <!--   <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="Langchain" title="Langchain" /> -->
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" title="Swift"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" title="Go"/>
 <!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/> -->
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png" alt="Elixir" title="Elixir"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 <!--   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/> -->
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 <!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/> -->
-  <img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
-<!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png" alt="Elixir" title="Elixir"/> -->
-<!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/> -->
-<!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/> -->
+<!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/> -->
+<!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/> -->
 </div>
 
 <br />
