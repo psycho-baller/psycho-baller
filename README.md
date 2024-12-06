@@ -17,7 +17,7 @@
   <img width="40" src="assets/next-js.svg" alt="NextJS" title="NextJS" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original-wordmark.svg" alt="tRPC" title="tRPC"/>
   <img width="40" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="NestJS" title="NestJS" />
-  <img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+<!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/> -->
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 <!--   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" title="Three.js"/> -->
   <img width="40" src="assets/svelte.svg" alt="Svelte" title="Svelte" />
