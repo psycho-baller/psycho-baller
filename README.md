@@ -4,9 +4,7 @@
 
 🌟 Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of app/web development and transformative technologies like AI, [LLMs](https://en.wikipedia.org/wiki/Large_language_model), [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), and UX.
 
-🔭 Currently, I am primarily focused on developing [SnipTube](https://sniptube.tech), a browser extension for YouTube, alongside managing [my YouTube channel](https://www.youtube.com/@ramimaalouf) where I offer tutorials and knowledge I gained through my unique experiences
-
-🚀 I’m currently working as a Software Developer Intern at 👁️🐝Ⓜ️, specifically with [IBM Skills Network](https://github.com/ibm-skills-network)
+🔭 Currently, I am primarily focused on developing [Rooots](https://github.com/psycho-baller/convo-topics) and [Orbit](https://github.com/psycho-baller/Orbit), 2 mobile apps that will change the way you socialize (for the better obviously). I also occasionally publish videos in [my YouTube channel](https://www.youtube.com/@ramimaalouf) where I offer tutorials and knowledge I gained through my unique experiences
 
 💡 I believe in the power of collaboration and am always on the lookout for exciting projects that make a difference. If you're spearheading an impactful project that seeks to make a difference, feel free to connect with me in the platform of your choice through the buttons below or the links in my profile
 
@@ -24,7 +22,7 @@
   <img width="40" src="assets/astro.svg" alt="Astro" title="Astro" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" alt="Solid.js" title="Solid.js"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>
+<!--   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/> -->
 <!--   <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="Langchain" title="Langchain" /> -->
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" title="Swift"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" title="Go"/>
@@ -37,6 +35,7 @@
 <!--   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/> -->
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/> -->
 <!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/> -->
 <!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/> -->
