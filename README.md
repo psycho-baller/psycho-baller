@@ -101,7 +101,7 @@
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,369 Contributions in the Year 2024
+> 🏆 1,377 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -109,17 +109,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-Swift                    4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Prolog                   3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Haskell                  3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Perl                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -133,5 +122,5 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2024 01:55:02 UTC
+ Last Updated on 18/12/2024 12:53:56 UTC
 <!--END_SECTION:waka-->
