@@ -94,6 +94,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycho-baller&theme=tokyonight&hide_border=false" width="55%" />
 </div>
 
+
+<details>
+<summary>Click to view the rest of my stats</summary>
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
@@ -135,3 +139,5 @@ C                        1 repo              ░░░░░░░░░░░�
 
  Last Updated on 30/12/2024 12:48:08 UTC
 <!--END_SECTION:waka-->
+
+</details>
