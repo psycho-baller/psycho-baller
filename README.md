@@ -4,7 +4,7 @@
 
 🌟 Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of app/web development and transformative technologies like AI, [LLMs](https://en.wikipedia.org/wiki/Large_language_model), [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), and UX.
 
-🔭 Currently, I am primarily focused on building & launching [Rooots](https://github.com/psycho-baller/convo-topics) and [Orbit](https://github.com/psycho-baller/Orbit), 2 consumer social apps ([a Tarpit idea](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)) that aims to revolutionize the way you socialize. I also occasionally publish videos on [my YouTube channel](https://www.youtube.com/@ramimaalouf) where I offer tutorials and knowledge I gained through my unique experiences
+🔭 Currently, I am primarily focused on building & launching [Rooots](https://github.com/psycho-baller/convo-topics) and [Orbit](https://github.com/psycho-baller/Orbit), 2 consumer social apps ([Tarpit ideas](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)) that aims to revolutionize the way you socialize. I also occasionally publish videos on [my YouTube channel](https://www.youtube.com/@ramimaalouf) where I offer tutorials and knowledge I gained through my unique experiences
 
 💡 I believe in the power of collaboration and am always looking for exciting projects that make a difference. If you're spearheading an impactful project that seeks to make a difference, feel free to connect with me in the platform of your choice through the buttons below or the links in my profile
 
