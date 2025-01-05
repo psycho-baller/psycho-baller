@@ -64,7 +64,7 @@
 </div>
 <div align="center">
   <a href='https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm' target='_blank' rel="noopener noreferrer">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317ip6uskv3ex44es6nsiywa66zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm" alt="spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317ip6uskv3ex44es6nsiywa66zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/317ip6uskv3ex44es6nsiywa66zm" alt="Spotify" />
   </a>
 </div>
 <!--  <a href="https://medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
