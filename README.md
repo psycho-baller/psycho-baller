@@ -99,7 +99,7 @@
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -137,7 +137,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2025 14:32:18 UTC
+ Last Updated on 17/01/2025 14:34:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
