@@ -99,13 +99,13 @@
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 674 Contributions in the Year 2025
+> 🏆 681 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -117,11 +117,11 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    17 hrs 57 mins      ███████████████░░░░░░░░░░   58.04 % 
-Other                    8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-XML                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Go                       29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Swift                    5 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
+C++                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Other                    1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+XML                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,7 +137,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 02:01:29 UTC
+ Last Updated on 09/04/2025 01:58:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
