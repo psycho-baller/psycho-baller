@@ -58,7 +58,7 @@
   <a href='https://ko-fi.com/ramimaalouf' target='_blank' rel="noopener noreferrer">
     <img src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white' border='0' alt='Buy Me a Ko-Fi' />
   </a>
-  <a href='https://www.paypal.com/donate/?business=YAEZW89AZDL6C&no_recurring=1&item_name=Your+support+helps+me+improve+and+grow+my+YouTube+channel+and+the+software+projects+I+develop.&currency_code=CAD' target='_blank' rel="noopener noreferrer">
+  <a href='https://paypal.me/ramimaal?country.x=CA&locale.x=en_US' target='_blank' rel="noopener noreferrer">
     <img src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white' border='0' alt='Paypal' />
   </a>
 </div>
