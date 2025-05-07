@@ -99,7 +99,7 @@
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -117,8 +117,8 @@
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 48 mins       █████████████████░░░░░░░░   66.64 % 
-Markdown                 3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
+Other                    8 hrs 49 mins       ████████████████░░░░░░░░░   65.99 % 
+Markdown                 4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -134,7 +134,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 02:45:39 UTC
+ Last Updated on 07/05/2025 12:57:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
