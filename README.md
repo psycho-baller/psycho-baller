@@ -99,13 +99,13 @@
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 806 Contributions in the Year 2025
+> 🏆 808 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -117,11 +117,11 @@
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 22 mins      ██████████████░░░░░░░░░░░   56.55 % 
-Markdown                 4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-TypeScript               2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Other                    11 hrs 39 mins      █████████████░░░░░░░░░░░░   52.41 % 
+TypeScript               4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Markdown                 3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,7 +137,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2025 02:03:40 UTC
+ Last Updated on 15/05/2025 12:54:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
