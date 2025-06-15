@@ -2,11 +2,9 @@
 
 <!--  <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 
-🌟 Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of app/web development and transformative technologies like AI, [LLMs](https://en.wikipedia.org/wiki/Large_language_model), [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), and UX.
+I love people... That's all you need to know about me. I love building useful softwares for people and [making content](https://youtube.com/@ramimaalouf) that help them grow.
 
-🔭 Currently, I am primarily focused on building & launching [Exo](https://github.com/psycho-baller/exo) and [Orbit](https://github.com/psycho-baller/Orbit), 2 consumer social apps that aim to revolutionize the way you socialize (might be considered a [Tarpit idea](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)). I also occasionally publish videos on [my YouTube channel](https://www.youtube.com/@ramimaalouf) where I offer tutorials and knowledge I gained through my unique experiences
-
-💡 I believe in the power of collaboration and am always looking for exciting projects that make a difference. If you're spearheading an impactful project that seeks to make a difference, feel free to connect with me in the platform of your choice through the buttons below or the links in my profile
+If you also love people, you need to try out the app I just launched: [Exo](https://getexo.vercel.app/). Would appreciate [any feedback](https://app.formbricks.com/s/cmbgfzsx80ut7sm01an3v7bz3) to help me figure out Exo's future❤️
 
 ## ⚡ Languages and Technologies I use
 
