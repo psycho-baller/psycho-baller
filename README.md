@@ -97,13 +97,13 @@ If you also love people, you need to try out the app I just launched: [Exo](http
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,002 Contributions in the Year 2025
+> 🏆 1,004 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -115,11 +115,11 @@ If you also love people, you need to try out the app I just launched: [Exo](http
 
 ```text
 💬 Programming Languages: 
-Other                    36 hrs 48 mins      ██████████████████████░░░   87.76 % 
-TypeScript               2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Markdown                 1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Other                    35 hrs 30 mins      ██████████████████████░░░   86.45 % 
+TypeScript               2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Markdown                 2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +135,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2025 22:44:16 UTC
+ Last Updated on 25/06/2025 12:58:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
