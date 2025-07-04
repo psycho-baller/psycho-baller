@@ -97,7 +97,7 @@ If you also love people, you need to try out the app I recently launched: [Exo](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -135,7 +135,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2025 13:37:11 UTC
+ Last Updated on 04/07/2025 13:39:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
