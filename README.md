@@ -103,6 +103,8 @@ If you also love people, you need to try out the app I recently launched: [Exo](
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
+> 🏆 1,022 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 84 Public Repositories 
@@ -113,9 +115,9 @@ If you also love people, you need to try out the app I recently launched: [Exo](
 
 ```text
 💬 Programming Languages: 
-Other                    42 hrs 46 mins      ██████████████████████░░░   88.90 % 
-Markdown                 4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-TypeScript               52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Other                    44 hrs 32 mins      ██████████████████████░░░   89.53 % 
+Markdown                 4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+TypeScript               52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
@@ -133,7 +135,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2025 02:10:50 UTC
+ Last Updated on 04/07/2025 12:55:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
