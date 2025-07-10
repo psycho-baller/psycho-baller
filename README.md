@@ -103,8 +103,6 @@ If you also love people, you need to try out the app I recently launched: [Exo](
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,032 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 85 Public Repositories 
@@ -135,7 +133,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2025 13:01:57 UTC
+ Last Updated on 10/07/2025 02:09:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
