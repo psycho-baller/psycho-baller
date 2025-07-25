@@ -97,19 +97,19 @@ If you also love people, you need to try out the app I recently launched: [Exo](
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,087 Contributions in the Year 2025
+> 🏆 1,126 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 85 Public Repositories 
  > 
-> 🔑 27 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -125,17 +125,17 @@ JSON                     9 mins              ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   32.61 % 
-Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Swift                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+TypeScript               32 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Swift                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
 
 
- Last Updated on 24/07/2025 13:05:14 UTC
+ Last Updated on 25/07/2025 02:15:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
