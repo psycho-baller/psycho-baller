@@ -103,7 +103,7 @@ If you also love people, you need to try out the app I recently launched: [Exo](
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,351 Contributions in the Year 2025
+> 🏆 1,353 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -115,11 +115,11 @@ If you also love people, you need to try out the app I recently launched: [Exo](
 
 ```text
 💬 Programming Languages: 
-Other                    54 hrs 16 mins      █████████████████████░░░░   83.74 % 
-TypeScript               9 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Other                    54 hrs 44 mins      █████████████████████░░░░   83.90 % 
+TypeScript               9 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Markdown                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +135,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2025 01:54:46 UTC
+ Last Updated on 11/09/2025 12:51:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
