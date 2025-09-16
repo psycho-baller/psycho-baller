@@ -42,7 +42,6 @@ If you also love people, you need to try out the app I recently launched: [Exo](
 <br />
 
 ## 📪 Find Me On
-<!--   <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 <div align="center" >
   <a href="https://www.linkedin.com/in/rami-m" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -50,6 +49,7 @@ If you also love people, you need to try out the app I recently launched: [Exo](
   <a href='https://www.instagram.com/psycho.baller/' target='_blank' rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: psycho.baller">
   </a>
+  <a href="https://x.com/rami__maalouf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href='https://medium.com/@ramimaalouf' target='_blank' rel="noopener noreferrer">
     <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' border='0' alt='Medium' />
   </a>
