@@ -4,7 +4,7 @@
 
 I love people... That's all you need to know about me. I love building useful softwares for humans who face the same problem as me and [making content](https://youtube.com/@ramimaalouf) that help them grow. You can learn more about me through [my personal website](https://rami-maalouf.tech).
 
-If you also love people, you need to try out the app I recently launched: [Exo](https://getexo.vercel.app/). Would appreciate [any feedback](https://app.formbricks.com/s/cmbgfzsx80ut7sm01an3v7bz3) to help me plan out Exo's future❤️
+My biggest weakness is my mind never stops coming up with cool thing to build. I can never catch up😩
 
 ## ⚡ Languages and Technologies I use
 
@@ -21,7 +21,7 @@ If you also love people, you need to try out the app I recently launched: [Exo](
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" alt="Solid.js" title="Solid.js"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>
-<!--   <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="Langchain" title="Langchain" /> -->
+  <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="Langchain" title="Langchain" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" title="Swift"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" title="Go"/>
 <!--   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/> -->
@@ -30,7 +30,7 @@ If you also love people, you need to try out the app I recently launched: [Exo](
   <img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png" alt="Elixir" title="Elixir"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
-<!--   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/> -->
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
