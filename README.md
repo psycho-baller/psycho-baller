@@ -82,12 +82,12 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
   </a>
 </div>
 
-<div float="left" align="center">
+<!-- <div float="left" align="center"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=psycho-baller&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=blue-green" width="59%" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="40%" />  -->
-  <img src="assets/generated/overview.svg" width="40%" /> 
-  <img src="assets/generated/languages.svg" width="40%" />
-</div>
+<!--  <img src="assets/generated/overview.svg" width="40%" /> -->
+<!--  <img src="assets/generated/languages.svg" width="40%" /> -->
+<!-- </div> -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycho-baller&theme=tokyonight&hide_border=false" width="55%" />
 </div>
