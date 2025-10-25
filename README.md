@@ -97,7 +97,7 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-388.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -135,7 +135,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2025 01:44:04 UTC
+ Last Updated on 25/10/2025 01:45:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
