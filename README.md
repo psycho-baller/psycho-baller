@@ -103,7 +103,7 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,754 Contributions in the Year 2025
+> 🏆 1,755 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -111,17 +111,6 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
  > 
 > 🔑 33 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    45 hrs 44 mins      ██████████████████████░░░   89.83 % 
-Markdown                 4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-TypeScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Prisma                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -135,7 +124,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2025 00:46:00 UTC
+ Last Updated on 12/12/2025 12:18:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
