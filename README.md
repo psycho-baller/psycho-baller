@@ -111,6 +111,17 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
  > 
 > 🔑 33 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    48 hrs 51 mins      ██████████████████████░░░   87.50 % 
+Markdown                 6 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+TypeScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Prisma                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -124,7 +135,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2025 12:18:19 UTC
+ Last Updated on 13/12/2025 00:37:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
