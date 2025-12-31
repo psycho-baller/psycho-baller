@@ -97,7 +97,7 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,11 +115,11 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 
 ```text
 💬 Programming Languages: 
-Other                    65 hrs 51 mins      █████████████████████░░░░   84.17 % 
-Swift                    10 hrs 2 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Markdown                 1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Groff                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    65 hrs 55 mins      █████████████████████░░░░   85.20 % 
+Swift                    8 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Markdown                 2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Groff                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Io                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +135,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 00:40:46 UTC
+ Last Updated on 31/12/2025 12:18:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
