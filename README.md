@@ -50,8 +50,8 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: psycho.baller">
   </a>
   <a href="https://x.com/rami__maalouf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href='https://medium.com/@ramimaalouf' target='_blank' rel="noopener noreferrer">
-    <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' border='0' alt='Medium' />
+  <a href='https://substack.com/@ramimaalouf' target='_blank' rel="noopener noreferrer">
+    <img src='https://img.shields.io/badge/Substack-12100E?style=for-the-badge&logo=substack' border='0' alt='Medium' />
   </a>
   <a href='https://ko-fi.com/ramimaalouf' target='_blank' rel="noopener noreferrer">
     <img src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white' border='0' alt='Buy Me a Ko-Fi' />
