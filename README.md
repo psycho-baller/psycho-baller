@@ -111,6 +111,17 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
  > 
 > 🔑 35 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    44 hrs 43 mins      █████████████████████░░░░   85.51 % 
+Swift                    4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Markdown                 2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Groff                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Io                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -124,7 +135,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 12:17:29 UTC
+ Last Updated on 03/01/2026 12:23:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
