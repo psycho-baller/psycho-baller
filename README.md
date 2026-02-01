@@ -97,7 +97,7 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -122,20 +122,14 @@ Bash                     2 hrs 3 mins        ██░░░░░░░░░�
 Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               50 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Swift                    11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+
 ```
 
 
 
 
- Last Updated on 01/02/2026 13:03:23 UTC
+ Last Updated on 01/02/2026 13:03:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
