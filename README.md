@@ -99,13 +99,13 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 511 Contributions in the Year 2026
+> 🏆 512 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -117,9 +117,9 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 
 ```text
 💬 Programming Languages: 
-Other                    43 hrs              ██████████████████████░░░   89.16 % 
-Markdown                 5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Swift                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    47 hrs 31 mins      ██████████████████████░░░   88.12 % 
+Markdown                 6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Swift                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
@@ -136,7 +136,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2026 03:13:35 UTC
+ Last Updated on 21/04/2026 12:44:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
