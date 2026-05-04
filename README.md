@@ -19,7 +19,7 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
   <img width="40" src="assets/svelte.svg" alt="Svelte" title="Svelte" />
   <img width="40" src="assets/astro.svg" alt="Astro" title="Astro" />
-  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" alt="Solid.js" title="Solid.js"/>
+  <!-- <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" alt="Solid.js" title="Solid.js"/> -->
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>
   <!-- <img width="45" src="https://js.langchain.com/img/favicon.ico" alt="Langchain" title="Langchain" /> -->
