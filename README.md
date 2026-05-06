@@ -99,7 +99,7 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 <summary>Click to view the rest of my stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -117,21 +117,27 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 
 ```text
 💬 Programming Languages: 
-Other                    54 hrs 37 mins      ██████████████████████░░░   88.09 % 
-Markdown                 3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Swift                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-TypeScript               1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Groff                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    58 hrs 13 mins      ██████████████████████░░░   87.80 % 
+Markdown                 4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Swift                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TypeScript               1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Groff                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
+
+**I Mostly Code in TypeScript** 
 
 ```text
-
+TypeScript               54 repos            ██████████░░░░░░░░░░░░░░░   40.60 % 
+Python                   24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
 
 
- Last Updated on 06/05/2026 01:56:07 UTC
+ Last Updated on 06/05/2026 12:54:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
