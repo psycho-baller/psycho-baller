@@ -103,9 +103,9 @@ My biggest weakness is my mind never stops coming up with cool thing to build. I
 
 **🐱 My GitHub Data** 
 
-> 📦 3.2 MB Used in GitHub's Storage 
+> 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 586 Contributions in the Year 2026
+> 🏆 600 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -127,8 +127,8 @@ Groff                    7 mins              ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               54 repos            ██████████░░░░░░░░░░░░░░░   40.60 % 
-Python                   24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+TypeScript               55 repos            ██████████░░░░░░░░░░░░░░░   41.35 % 
+Python                   23 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
 Swift                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
@@ -137,7 +137,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 21:33:03 UTC
+ Last Updated on 14/05/2026 01:09:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
